@@ -215,6 +215,8 @@ isort .
 
 <a align="left" href="https://github.com/kadirnar" target="_blank">Kadir Nar</a>
 
+<a align="left" href="https://github.com/madenburak" target="_blank">Burak Maden</a>
+
 <a align="left" href="https://github.com/cemilcengiz" target="_blank">Cemil Cengiz</a>
 
 <a align="left" href="https://github.com/ssahinnkadir" target="_blank">Kadir Sahin</a>
